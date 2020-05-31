@@ -12,8 +12,8 @@
 ## instrucciones:
 
 - ingresar al directorio y bajar los fuentes del proyecto
-- ejecutar el siguiente comando de git
-	git clone https://github.com/zgomez-max/fravega.git
+- ejecutar el siguiente comando de git: 
+	- git clone https://github.com/zgomez-max/fravega.git
 - ingresar al directorio del proyecto
 	cd fravega
 - para correr los test ejecutar el siguiente comando:
@@ -33,11 +33,11 @@
 - git
 	https://git-scm.com/doc
 - selenium
-	https://www.selenium.dev/documentation/en/
+	https://www.selenium.dev/documentation/en/ 
 - maven
 	http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html	
 
-	- pluginscc
+	- plugins
 		https://maven.apache.org/surefire/maven-surefire-report-plugin/
 		https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient
 		https://mvnrepository.com/artifact/org.json/json
