@@ -12,7 +12,7 @@ import org.openqa.selenium.WebElement;
 
 import com.fravega.pom.PaginaHome;
 
-public class EjercicioTest {
+public class FrontendTest {
 
 
 
