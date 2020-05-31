@@ -11,17 +11,17 @@
 
 ## instrucciones:
 
-1.- ingresar al directorio y bajar los fuentes del proyecto
-2.- ejecutar el siguiente comando de git
+- ingresar al directorio y bajar los fuentes del proyecto
+- ejecutar el siguiente comando de git
 	git clone https://github.com/zgomez-max/fravega.git
-3.- ingresar al directorio del proyecto
+- ingresar al directorio del proyecto
 	cd fravega
-4.- para correr los test ejecutar el siguiente comando:
+- para correr los test ejecutar el siguiente comando:
 	mvn test
 
 **	Se espera que uno de los test falle ya que en el enunciado solicitaban validar que el breadcrumb diga "Heladeras con Frezzer", pero en la pagina actualmente dice "Heladeras "
   
-5.- (opcional) para generar reportes de la ejecucion ejecutar el siguiente comando:
+- (opcional) para generar reportes de la ejecucion ejecutar el siguiente comando:
 
 	mvn surefire-report:report
 
